@@ -1,14 +1,14 @@
 package com.heming.learn.leetcode.tree.bintree;
 
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
+public class TreeNode {
+    public int val;
+    public TreeNode left;
+    public TreeNode right;
 
     TreeNode() {
     }
 
-    TreeNode(int val) {
+    public TreeNode(int val) {
         this.val = val;
     }
 
