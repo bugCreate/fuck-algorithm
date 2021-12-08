@@ -14,5 +14,6 @@
     </properties>
     <modules>
         <module>leetcode</module>
+        <module>java-base</module>
     </modules>
 </project>
